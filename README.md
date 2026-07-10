@@ -88,3 +88,29 @@ yarn build
 
 The build artifacts will be stored in the `dist/` directory.
 
+
+
+
+
+
+
+
+
+---
+
+## My Learning Journey
+
+This repository is a fork of the original DevSecOps Demo project by Veeramalla. I am using it to learn and practice DevSecOps concepts through hands-on implementation.
+
+### Skills Practiced
+- Git & GitHub
+- Docker
+- GitHub Actions
+- CI/CD Pipelines
+- Kubernetes
+- Docker Hub
+
+### Original Repository
+https://github.com/iam-veeramalla/devsecops-demo
+
+> Note: The application code belongs to the original author. My work in this repository focuses on learning and implementing the DevSecOps pipeline.
